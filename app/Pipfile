@@ -9,6 +9,7 @@ fastapi = "*"
 motor = "*"
 pydantic = "*"
 pymongo = "*"
+kafka-python = "*"
 
 [dev-packages]
 
